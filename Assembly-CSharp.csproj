@@ -38,9 +38,9 @@
   <ItemGroup>
      <Compile Include="Assets\MeshCut.cs" />
      <Compile Include="Assets\Cutter.cs" />
-     <Compile Include="Assets\MLine.cs" />
      <Compile Include="Assets\DragPlane.cs" />
      <Compile Include="Assets\CameraMovement.cs" />
+     <Compile Include="Assets\CreateRay.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:\Program Files\Unity\Hub\Editor\2020.3.48f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
     </Reference>
